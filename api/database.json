@@ -1,0 +1,106 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "bookings": [
+    {
+      "description": "",
+      "address": "",
+      "hours": "",
+      "parent": "",
+      "child": "",
+      "attendance": "",
+      "neededBy": "",
+      "id": 10
+    },
+    {
+      "description": "ijfodihger",
+      "address": "jerfj",
+      "hours": "6",
+      "parent": "dflno3",
+      "child": "qifn3i4",
+      "attendance": "-5",
+      "neededBy": "2022-11-09",
+      "id": 11
+    },
+    {
+      "description": "landfkub",
+      "address": "dfkjiug",
+      "hours": "3",
+      "parent": "flsidhu",
+      "child": "sdkvnur",
+      "attendance": "-4",
+      "neededBy": "2022-12-01",
+      "id": 13
+    },
+    {
+      "description": "",
+      "address": "",
+      "hours": "",
+      "parent": "",
+      "child": "",
+      "attendance": "",
+      "neededBy": "",
+      "id": 14
+    },
+    {
+      "description": "",
+      "address": "",
+      "hours": "",
+      "parent": "",
+      "child": "",
+      "attendance": "",
+      "neededBy": "",
+      "id": 15
+    },
+    {
+      "description": "",
+      "address": "",
+      "hours": "",
+      "parent": "",
+      "child": "",
+      "attendance": "",
+      "neededBy": "",
+      "id": 16
+    }
+  ],
+  "completions": [
+    {
+      "bookingId": "10",
+      "clownId": "1",
+      "date_created": "11/7/2022",
+      "id": 1
+    },
+    {
+      "bookingId": "10",
+      "clownId": "2",
+      "date_created": "11/7/2022",
+      "id": 2
+    },
+    {
+      "bookingId": "10",
+      "clownId": "1",
+      "date_created": "11/7/2022",
+      "id": 3
+    },
+    {
+      "bookingId": "10",
+      "clownId": "1",
+      "date_created": "11/7/2022",
+      "id": 4
+    },
+    {
+      "bookingId": "10",
+      "clownId": "2",
+      "date_created": "11/7/2022",
+      "id": 5
+    }
+  ]
+}
